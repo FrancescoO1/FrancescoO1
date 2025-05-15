@@ -21,7 +21,7 @@ I'm currently studying Computer Engineering, where I strive every day to **bridg
 ---
 
 ### 🛠️ Tools & Technologies I use
-- `C/C++`, `Python`, `Java`, `MATLAB`, `Wireshark`
+- `C/C++`, `Python`, `Java`, `MATLAB`, `Wireshark`, `Arduino`
 - Git & GitHub · Linux
 - Modeling and simulation
 - Microcontrollers, networks, and hardware/software projects
