@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FrancescoO1.FrancescoO1)
+
 ## 👋 Hi there! I'm a Telecommunications and Computer Engineering Student
 
 My name is Francesco, and I’m building my path through bits, waves, and algorithms.  
