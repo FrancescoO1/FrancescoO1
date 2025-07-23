@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FrancescoO1.FrancescoO1)
 
-## 👋 Hi there! I'm a Telecommunications and Computer Engineering Student
+## 👋 Hi there! I'm a Telecommunications and Computer Engineering Student, currently doing an internship at Thales as a Defence System Engineering intern.
 
 My name is Francesco, and I’m building my path through bits, waves, and algorithms.  
 I'm passionate about both the world of **telecommunications**, where information travels through space, and **computer science**, where it takes shape and meaning.
