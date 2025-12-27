@@ -9,7 +9,8 @@ I believe that curiosity is the key to learning: every line of code or formula i
 ---
 
 ### 🚀 What I'm passionate about
-- Networks and communication protocols  
+- Networks and communication protocols
+- Networks analysis
 - IoT  
 - Computer architecture  
 - Programming and algorithms  
